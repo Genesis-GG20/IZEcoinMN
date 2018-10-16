@@ -1,0 +1,2 @@
+# IZEcoinMN
+IZEcoin Masternode
